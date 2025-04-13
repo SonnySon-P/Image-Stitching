@@ -13,9 +13,17 @@
 2. main2.py: 使用openCV獲取特徵點，並運用Homography Matrix計算
 
 六、成果展示：
+1. main1.py
 <br>
 <div align="center">
-	<img src="./截圖.png" alt="Editor" width="500">
+	<img src="./截圖1.png" alt="Editor" width="500">
+</div>
+<br>
+
+2. main2.py
+<br>
+<div align="center">
+	<img src="./截圖2.png" alt="Editor" width="500">
 </div>
 <br>
    
